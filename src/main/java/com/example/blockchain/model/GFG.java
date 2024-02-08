@@ -21,8 +21,7 @@ public class GFG {
         Block currentBlock;
         Block previousBlock;
 
-        // Iterating through
-        // all the blocks
+        // Iterating throug all the blocks
         for (int i = 1; i < blockchain.size(); i++) {
 
             // Storing the current block
